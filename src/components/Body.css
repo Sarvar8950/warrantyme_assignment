@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+.fildes{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.fildes select {
+    margin: 10px 0;
+}
+.card{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    width: 90%;
+    margin: 15px auto;
+    border: 1px solid rgba(204, 204, 204, 0.877);
+}
+img{
+    width: 200px;
+    margin-right: 30px;
+}
